@@ -149,3 +149,7 @@ ADI+IFS (4D) center cube, ideal to test recentering of SPHERE/IFS data. The cent
 ### SINFONI HD 179218
 
 IFS (3D) cube, ideal to test preprocessing and SDI functionalities. The cube and wavelength vector are provided.
+
+### SPHERE SAO 206462
+
+An IFS (3D) cube taken in star-hopping mode, ideal for testing preprocessing and RDI functionalities. A cube of references is provided.
