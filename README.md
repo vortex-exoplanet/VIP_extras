@@ -152,4 +152,4 @@ IFS (3D) cube, ideal to test preprocessing and SDI functionalities. The cube and
 
 ### SPHERE SAO 206462
 
-An IFS (3D) cube taken in star-hopping mode, ideal for testing preprocessing and RDI functionalities. A cube of references is provided.
+A 3D ADI cube obtained with the SPHERE/IRDIS instrument in star-hopping mode together with a cube of reference. This dataset is used to test RDI functionalities.
